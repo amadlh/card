@@ -1,0 +1,16 @@
+.text{
+    border-bottom:2px solid green;
+    transition:500ms;
+}
+.text:hover{
+    background:#90EE90;
+    color:black;
+}
+img{
+    padding:0.5rem;
+    background:rgba(0, 0, 0, 0.09);
+    width:90%;
+    border-radius:16px;
+    justify-content:center;
+    align-items:center;
+}
